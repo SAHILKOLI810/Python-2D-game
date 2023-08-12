@@ -11,5 +11,4 @@ Installation
 Before running the project install the pygame library by usnig the following command
 
 pip install pygame
-Snapshot of the game
 
